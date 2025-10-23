@@ -5,29 +5,15 @@
  \ \   __  \ \   __  \ \   _  _\ \  \\\  \ \  \\ \  \       \ \   ____\   
   \ \  \ \  \ \  \ \  \ \  \\  \\ \  \\\  \ \  \\ \  \       \ \  \___|__ 
    \ \__\ \__\ \__\ \__\ \__\\ _\\ \_______\ \__\\ \__\       \ \__\ |\__\
-    \|__|\|__|\|__|\|__|\|__|\|__|\|_______|\|__| \|__|        \|__| \|__|
-                                                                          
-                                                                          
-                                                                          
+    \|__|\|__|\|__|\|__|\|__|\|__|\|_______|\|__| \|__|        \|__| \|__|                                                                     
 ```
-                                                                          
-                                                                          
-                                                                          
-                                                                          
-                                                                          
-                                                                          
+# Languages (from best to worst):
+Typescript, Java, Python, C#, C++
 
-<!--
-**aabron/aabron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me:
+I started out programming because of **FRC robotics** and fell in love with it since, i spend my time doing controls engineering for work but on the side i do _web development and web api development_, im a huge foodie and i love Italian food.                                                        
+                                                        
+## Things im learning right now:
+* ASP.NET Core
+* Algorithm Implementation
+* Google Extension Development
