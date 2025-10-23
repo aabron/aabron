@@ -11,7 +11,7 @@
 Typescript, Java, Python, C#, C++
 
 ## About Me:
-I started out programming because of **FRC robotics** and fell in love with it since, i spend my time doing controls engineering for work but on the side i do _web development and web api development_, im a huge foodie and i love Italian food.                                                        
+I started out programming because of **FRC robotics** and fell in love with it since, i spend my time doing controls engineering for work but on the side i do _web development, web api development_ and even embedded software (C code running on a Pi zero mostly for fun and testing), im a huge foodie and i love Italian food.                                                        
                                                         
 ## Things im learning right now:
 * ASP.NET Core
